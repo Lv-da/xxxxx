@@ -5,8 +5,8 @@ const matter = require('gray-matter')
 
 async function generate() {
   const feed = new RSS({
-    title: 'Your Name',
-    site_url: 'https://yoursite.com',
+    title: '驴哒',
+    site_url: 'https://owo.lvda.life',
     feed_url: 'https://yoursite.com/feed.xml'
   })
 
