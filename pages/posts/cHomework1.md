@@ -1,12 +1,12 @@
 ---
-title: c语言作业1
+title: cHomework1
 date: 2021/10/11
 description: 都欺负我没有老本吃.
-tag: 作业1
+tag: Homework
 author: 驴哒
 ---
 
-~都有老本，就我没老本还得慢慢写，这下知道谁是卷王了吧
+都有老本，就我没老本还得慢慢写，这下知道谁是卷王了吧
 
 **Problem A.**
 	#include <stdio.h>
