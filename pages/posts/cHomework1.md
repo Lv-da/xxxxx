@@ -97,6 +97,8 @@ author: 驴哒
 	    return 0;
 	}
 ```
+~~我猜有人第一次提交的时候忘记加count了~~
+
 ### Problem F.
 ```
 	int main()
@@ -135,7 +137,6 @@ int numberofdays(struct date d)
    }
 }
 ```
-
 ### Problem G.
 ```
 	int main()
