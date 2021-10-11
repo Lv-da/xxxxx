@@ -1,11 +1,10 @@
-
-
-
-
-
-
-
-
+---
+title: cHomework1
+date: 2021/10/11
+description: cHomework1.
+tag: Homework
+author: 驴哒
+---
 
 都有老本，就我没老本还得慢慢写，这下知道谁是卷王了吧
 
