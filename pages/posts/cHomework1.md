@@ -65,8 +65,10 @@ author: 驴哒
 	    return 0;
 	}
 ```
-同款普通数学问题，正常计算即可，注意pow函数要<math.h>头文件
-
+同款普通数学问题，正常计算即可，
+```
+注意pow函数要<math.h>头文件
+```
 ### Problem D.
 ```
 	int main()
