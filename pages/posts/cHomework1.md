@@ -124,6 +124,18 @@ author: 驴哒
 ```
 **注意闰年的判断**
 
+当然判断每个月的天数也可以不用数组，显得高级点XD，如下
+```
+int numberofdays(struct date d)
+{
+   if(d.month == 1 || d.month == 3 || d.month == 5 || d.month == 7 || d.month == 8 || d.month == 10 || d.month == 12){
+       return 31;
+   }else{
+       return 30;
+   }
+}
+```
+
 ### Problem G.
 ```
 	int main()
