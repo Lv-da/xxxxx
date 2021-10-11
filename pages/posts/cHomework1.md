@@ -9,7 +9,6 @@ author: 驴哒
 都有老本，就我没老本还得慢慢写，这下知道谁是卷王了吧
 
 **Problem A.**
-	#include <stdio.h>
 
 	int main()
 	{
@@ -28,7 +27,6 @@ author: 驴哒
 	}
 
 **Problem B.**
-	#include <stdio.h>
 
 	int main()
 	{
@@ -48,8 +46,6 @@ author: 驴哒
 	}
 
 **Problem C.**
-	#include <stdio.h>
-	#include <math.h>
 
 	int main()
 	{
@@ -64,7 +60,6 @@ author: 驴哒
 	}
 
 **Problem D.**
-	#include <stdio.h>
 
 	int main()
 	{
@@ -81,7 +76,6 @@ author: 驴哒
 ~~赌五毛有人跟我一样因为读题问题把两个数输出反了~~
 
 **Problem E.**
-	#include <stdio.h>
 
 	int main()
 	{
@@ -103,7 +97,6 @@ author: 驴哒
 	}
 
 **Problem F.**
-	#include <stdio.h>
 
 	int main()
 	{
@@ -130,7 +123,6 @@ author: 驴哒
 **注意闰年的判断**
 
 **Problem G.**
-	#include <stdio.h>
 
 	int main()
 	{
