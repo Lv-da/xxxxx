@@ -9,7 +9,7 @@ author: 驴哒
 都有老本，就我没老本还得慢慢写，这下知道谁是卷王了吧
 
 **Problem A.**
-
+```
 	int main()
 	{
 		int n = 0;
@@ -25,9 +25,9 @@ author: 驴哒
 		printf("%d\n",n);
 	   return 0;
 	}
-
+```
 **Problem B.**
-
+```
 	int main()
 	{
 	    int i,n,a,b,c,d;
@@ -44,9 +44,9 @@ author: 驴哒
 	    printf("%d",n);
 	    return 0;
 	}
-
+```
 **Problem C.**
-
+```
 	int main()
 	{
 	    double a,e,d=0.0;
@@ -58,9 +58,9 @@ author: 驴哒
 
 	    return 0;
 	}
-
+```
 **Problem D.**
-
+```
 	int main()
 	{
 	    double a=0,b=0.01;
@@ -73,10 +73,11 @@ author: 驴哒
 	    printf("3000000\n");
 	    return 0;
 	}
+```
 ~~赌五毛有人跟我一样因为读题问题把两个数输出反了~~
 
 **Problem E.**
-
+```
 	int main()
 	{
 	    int count=0;
@@ -95,9 +96,9 @@ author: 驴哒
 
 	    return 0;
 	}
-
+```
 **Problem F.**
-
+```
 	int main()
 	{
 	    int t,m;
@@ -120,16 +121,19 @@ author: 驴哒
 
 	    return 0;
 	}
+```
 **注意闰年的判断**
 
 **Problem G.**
-
+```
 	int main()
 	{
 		printf("3.141594");
 
 	    return 0;
 	}
+```
 没错就是这样XD
 
 想到了易错点会更新
+
