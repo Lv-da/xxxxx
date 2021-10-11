@@ -164,7 +164,7 @@ int numberofdays(struct date d)
 	    double pai=0,i=1.0,z=1.0;
 	    while ((1.0/i)>=0.0001){
 		pai = pai + z*(1.0/i);
-		z = (-1.0)*z;
+		z = (-1.0)*z;//控制-1
 		i = i+2.0;  
 	    }
 	    printf("%f",4.0*pai);
