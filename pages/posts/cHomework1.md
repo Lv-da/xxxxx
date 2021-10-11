@@ -8,7 +8,7 @@ author: 驴哒
 
 都有老本，就我没老本还得慢慢写，这下知道谁是卷王了吧
 
-**Problem A.**
+### Problem A.
 ```
 	int main()
 	{
@@ -26,7 +26,7 @@ author: 驴哒
 	   return 0;
 	}
 ```
-**Problem B.**
+### Problem B.
 ```
 	int main()
 	{
@@ -45,7 +45,7 @@ author: 驴哒
 	    return 0;
 	}
 ```
-**Problem C.**
+### Problem C.
 ```
 	int main()
 	{
@@ -59,7 +59,7 @@ author: 驴哒
 	    return 0;
 	}
 ```
-**Problem D.**
+### Problem D.
 ```
 	int main()
 	{
@@ -76,7 +76,7 @@ author: 驴哒
 ```
 ~~赌五毛有人跟我一样因为读题问题把两个数输出反了~~
 
-**Problem E.**
+### Problem E.
 ```
 	int main()
 	{
@@ -97,7 +97,7 @@ author: 驴哒
 	    return 0;
 	}
 ```
-**Problem F.**
+### Problem F.
 ```
 	int main()
 	{
@@ -124,7 +124,7 @@ author: 驴哒
 ```
 **注意闰年的判断**
 
-**Problem G.**
+### Problem G.
 ```
 	int main()
 	{
