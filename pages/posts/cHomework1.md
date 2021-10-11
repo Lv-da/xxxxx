@@ -26,6 +26,8 @@ author: 驴哒
 	   return 0;
 	}
 ```
+正常的数学问题，正常计算应该都没大问题
+
 ### Problem B.
 ```
 	int main()
@@ -45,6 +47,8 @@ author: 驴哒
 	    return 0;
 	}
 ```
+将4位数分开并用if判断是否合适即可，因为只用输出一个数，所以if成立后要用break结束for循环
+
 ### Problem C.
 ```
 	int main()
@@ -59,6 +63,8 @@ author: 驴哒
 	    return 0;
 	}
 ```
+同款普通数学问题，正常计算即可
+
 ### Problem D.
 ```
 	int main()
@@ -75,13 +81,14 @@ author: 驴哒
 	}
 ```
 ~~赌五毛有人跟我一样因为读题问题把两个数输出反了~~
+循环即可
 
 ### Problem E.
 ```
 	int main()
 	{
 	    int count=0;
-	    int ten=0,five=00,one=0;
+	    int ten=0,five=0,one=0;
 	    for(ten=0;ten<10;ten++){
 		for(five=0;five<20;five++){
 		    for(one=0;one<50;one++){
@@ -98,6 +105,7 @@ author: 驴哒
 	}
 ```
 ~~我猜有人第一次提交的时候忘记加count了~~
+三层for穷举3种纸币的组合，if判断合适的组合并输出，记得count++哦
 
 ### Problem F.
 ```
@@ -162,6 +170,7 @@ int numberofdays(struct date d)
 	    return 0;
 	}
 ```
+按照题目要求把公式写下来就行
 
 想到了易错点会更新
 
