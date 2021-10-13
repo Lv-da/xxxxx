@@ -28,7 +28,9 @@ int main()
         n = n + p*t;
         }
         if(t>=10){
-            p--;
+            if(p>0){
+                p--;
+            }
         }else if(t<=2){
             p=p+2;
         }
