@@ -15,6 +15,9 @@ author: 驴哒
 #### 让我康康有多少人来看（
 ![](https://count.getloli.com/get/@Lv-da?theme=rule34)
 
+#### 加了个聊天室，可以来氵或者问问题，看看有没有其他人回答你（
+[![SVG Charts](https://chat.getloli.com/room/@Lv-da/svg?width=750&height=360&limit=20&theme=light&fontSize=13&title=jad@github.com:%20%7E)](https://chat.getloli.com/room/@Lv-da?title=Lv-da)
+
 ## Problem A.
 ```
 #include <stdio.h>
