@@ -12,6 +12,9 @@ author: 驴哒
 
 ~~反正我是不记得了~~
 
+#### 让我康康有多少人来看（
+![](https://count.getloli.com/get/@Lv-da?theme=rule34)
+
 ## Problem A.
 ```
 #include <stdio.h>
