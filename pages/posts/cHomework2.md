@@ -12,8 +12,6 @@ author: 驴哒
 
 ~~反正我是不记得了~~
 
-![微信图片_20211018125947.jpg](https://i.loli.net/2021/10/18/XiMICASaUzoFOp6.jpg)
-
 ## Problem A.
 ```
 #include <stdio.h>
@@ -201,3 +199,6 @@ int main(){
 ```
 
 ### Finish.
+
+![微信图片_20211018125947.jpg](https://i.loli.net/2021/10/18/XiMICASaUzoFOp6.jpg)
+
