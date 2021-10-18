@@ -9,7 +9,10 @@ author: 驴哒
 # c语言作业2answer
 
 猜猜有哪些地方容易错？
+
 ~~反正我是不记得了~~
+
+![微信图片_20211018125947.jpg](https://i.loli.net/2021/10/18/XiMICASaUzoFOp6.jpg)
 
 ## Problem A.
 ```
