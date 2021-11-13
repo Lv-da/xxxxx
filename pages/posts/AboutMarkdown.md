@@ -101,11 +101,13 @@ author: 驴哒
 }</p>    
 
 <p>代码区块：</p>
-
-<pre><code>void main()
+  
+````
+void main()
 {
     printf("Hello, Markdown.");
-}</code></pre>
+}
+````
 
 <p><strong>注意</strong>:需要和普通段落之间存在空行。</p>
 
