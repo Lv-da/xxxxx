@@ -18,7 +18,7 @@ author: 驴哒
 
 <h3>2. <em>谁</em>发明了这么个东西？</h3>
 
-<p>它由 <a href="http://www.aaronsw.com/" rel=" nofollow ugc"><strong>Aaron Swartz</strong></a> 和 <strong>John Gruber</strong> 共同设计， <strong>Aaron Swartz</strong> 就是那位于不久前（<em>2013年1月11日</em>）自杀，有着<strong>开挂</strong>一般人生经历的程序员。维基百科对他的<a href="http://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8" rel=" nofollow ugc">介绍</a>是：<strong>软件工程师、作家、政治组织者、互联网活动家、维基百科人</strong>。</p>
+<p>它由 <strong>Aaron Swartz</strong> 和 <strong>John Gruber</strong> 共同设计， <strong>Aaron Swartz</strong> 就是那位于不久前（<em>2013年1月11日</em>）自杀，有着<strong>开挂</strong>一般人生经历的程序员。维基百科对他的介绍是：<strong>软件工程师、作家、政治组织者、互联网活动家、维基百科人</strong>。</p>
 
 <h3>3. <em>为什么</em>要使用它？</h3>
 
@@ -239,7 +239,7 @@ void main()
 
 <hr>
 <p><strong>注意</strong>：不同的 Markdown 解释器或工具对相应语法（扩展语法）的解释效果不尽相同，具体可参见工具的使用说明。<br>
-虽然有人想出面搞一个所谓的标准化的Markdown，<a href="http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/" rel=" nofollow ugc">没想到还惹怒了健在的创始人John Gruber</a>。</p>
+虽然有人想出面搞一个所谓的标准化的Markdown，没想到还惹怒了健在的创始人John Gruber。</p>
 <hr>
 
 <p>以上基本是所有 Traditonal Markdown 的语法。</p>
@@ -259,4 +259,4 @@ void main()
 
 <h3>我该在哪里试试它呢？</h3>
 
-<p>最简单的就是找一个支持 Markdown 的在线 pastebin 类站点，例如 <a href="https://gist.github.com" rel=" nofollow ugc">Github Gist</a> (注:在大陆可能被屏蔽) 。你也可以在这个帖子直接回复测试 Markdown 语法，请直接编辑你的回复做更多测试。注意：不要在此帖外的任何地方发表无意义的语法测试内容！</p>
+<p>最简单的就是找一个支持 Markdown 的在线 pastebin 类站点，例如 Github Gist (注:在大陆可能被屏蔽) 。你也可以在这个帖子直接回复测试 Markdown 语法，请直接编辑你的回复做更多测试。注意：不要在此帖外的任何地方发表无意义的语法测试内容！</p>
