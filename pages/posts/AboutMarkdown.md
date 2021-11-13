@@ -54,7 +54,7 @@ author: 驴哒
 
 <blockquote><h2>一级标题</h2>
 <h2>二级标题</h2>
-<p></p></blockquote>
+</blockquote>
 
 <p>2）使用<code>#</code>，可表示1-6级标题。</p>
 
