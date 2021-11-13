@@ -1,13 +1,11 @@
 ---
-title: 关于Markdown
+title: AboutMarkdown
 date: 2021/11/13
-description: 嗯
+description: markdown
 tag: web development
 author: 驴哒
 ---
-
-<div class="Post-body">
-                    <h2>前言</h2>
+<h2>前言</h2>
 
 <p>一个工具的精通需要的是长期的练习和使用， Markdown 语法也不例外，本文标题意在纠正大家对 Markdown 学习成本的错误高估以及消除大家对其的恐惧感。当然，只是读完本文五分钟还是足够的～</p>
 
@@ -262,6 +260,3 @@ void main()
 <h3>我该在哪里试试它呢？</h3>
 
 <p>最简单的就是找一个支持 Markdown 的在线 pastebin 类站点，例如 <a href="https://gist.github.com" rel=" nofollow ugc">Github Gist</a> (注:在大陆可能被屏蔽) 。你也可以在这个帖子直接回复测试 Markdown 语法，请直接编辑你的回复做更多测试。注意：不要在此帖外的任何地方发表无意义的语法测试内容！</p>
-                </div>
-            </div>
-            
