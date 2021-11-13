@@ -53,8 +53,7 @@ author: 驴哒
 <p>效果：</p>
 
 <blockquote><h2>一级标题</h2>
-<h2>二级标题</h2>
-<p>（注：本论坛系统不支持此语法）</p></blockquote>
+<h2>二级标题</h2></blockquote>
 
 <p>2）使用<code>#</code>，可表示1-6级标题。</p>
 
@@ -188,8 +187,7 @@ author: 驴哒
 <p>效果：</p>
 
 <blockquote><p>[younghz的Markdown库1][1]<br>
-[younghz的Markdown库2][2]<br>
-（注：本论坛系统不支持此语法）</p></blockquote>
+[younghz的Markdown库2][2]</p></blockquote>
 
 <h4>4.10 图片</h4>
 
@@ -255,8 +253,7 @@ author: 驴哒
 <blockquote><p>|代码库                              |链接                                |<br>
 |:------------------------------------😐------------------------------------|<br>
 |MarkDown                              | <a href="https://github.com/younghz/Markdown" rel=" nofollow ugc">https://github.com/younghz/Markdown</a>|<br>
-|moos-young                            |<a href="https://github.com/younghz/moos-young" rel=" nofollow ugc">https://github.com/younghz/moos-young</a>|<br>
-（注：本论坛系统不支持此语法）</p></blockquote>
+|moos-young                            |<a href="https://github.com/younghz/moos-young" rel=" nofollow ugc">https://github.com/younghz/moos-young</a>|</p></blockquote>
 
 <p>关于其它扩展语法可参见具体工具的使用说明。</p>
 
