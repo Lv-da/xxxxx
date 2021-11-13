@@ -54,7 +54,7 @@ author: 驴哒
 
 <blockquote><h2>一级标题</h2>
 <h2>二级标题</h2>
-</blockquote>
+<p>（注：本论坛系统不支持此语法）</p></blockquote>
 
 <p>2）使用<code>#</code>，可表示1-6级标题。</p>
 
@@ -189,7 +189,7 @@ author: 驴哒
 
 <blockquote><p>[younghz的Markdown库1][1]<br>
 [younghz的Markdown库2][2]<br>
-</p></blockquote>
+（注：本论坛系统不支持此语法）</p></blockquote>
 
 <h4>4.10 图片</h4>
 
@@ -256,7 +256,7 @@ author: 驴哒
 |:------------------------------------😐------------------------------------|<br>
 |MarkDown                              | <a href="https://github.com/younghz/Markdown" rel=" nofollow ugc">https://github.com/younghz/Markdown</a>|<br>
 |moos-young                            |<a href="https://github.com/younghz/moos-young" rel=" nofollow ugc">https://github.com/younghz/moos-young</a>|<br>
-</p></blockquote>
+（注：本论坛系统不支持此语法）</p></blockquote>
 
 <p>关于其它扩展语法可参见具体工具的使用说明。</p>
 
@@ -265,3 +265,4 @@ author: 驴哒
 <p>最简单的就是找一个支持 Markdown 的在线 pastebin 类站点，例如 <a href="https://gist.github.com" rel=" nofollow ugc">Github Gist</a> (注:在大陆可能被屏蔽) 。你也可以在这个帖子直接回复测试 Markdown 语法，请直接编辑你的回复做更多测试。注意：不要在此帖外的任何地方发表无意义的语法测试内容！</p>
                 </div>
             </div>
+            
