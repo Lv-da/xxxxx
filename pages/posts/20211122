@@ -1,0 +1,80 @@
+---
+title: 20211122
+date: 2021/10/11
+description: cHomework.
+tag: Homework
+author: 驴哒
+---
+
+# 这次有几题做个笔记
+
+交换字符
+
+````
+#include <bits/stdc++.h>
+using namespace std;
+int main(void) { 
+  	int a,i,j,y = 0,x = 0; 
+  	char str[300001]; 
+  	scanf("%s",&str); //读入字符串
+ 	a = strlen(str); 
+ 	for(i = 0;i<a;i++) { 
+  		if(str[i]=='y') 
+   			y++; //计算y的个数
+  		else if(str[i]=='x') 
+   			x++; //计算x的个数
+  		else 
+   			break; //到z退出，因为z后面的x无法到z前面
+ 	} 
+  
+  //y可以自由在x和z间移动
+  //以i为分界线，str[i]处是z
+ 	
+  for(j = i+1;j<a;j++) { 
+  		if(str[j]=='y') 
+   			y++; //计算z后面的y的个数
+ 	} 
+ 	for(j = 0;j<x;j++) 
+  		printf("x"); //输出z前面的x
+ 	for(j = 0;j<y;j++) 
+  		printf("y"); //输出z前面的y
+ 	for(j = i;j<a;j++) { 
+  		if(str[j]!='y') 
+   	printf("%c",str[j]); //输出z后x和z的混合体
+ 	} 
+ 	return 0; 
+}
+````
+
+快乐数
+
+暴力不要暴力错方向了咩（有人从区间里的每个数去下手我不说是谁）
+
+````
+#include <bits/stdc++.h>
+using namespace std; 
+typedef long long ll;
+
+ll l,r,s,v;
+
+int main() {
+	while(scanf("%lld %lld",&l,&r)!=EOF){
+		s=0;
+		for(ll i=1;i<=r;i<<=1){
+			for(ll j=1;j<=r;j*=3){
+				v=i*j;
+				if(v<=r&&v>=l){
+					s++;
+				}else if(v>r)break;
+			}
+		}
+		printf("%lld\n",s);
+	}
+
+	return 0;
+}
+````
+
+刷题那道题我是在草稿纸上列出前几项找规律的
+
+
